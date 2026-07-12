@@ -30,12 +30,12 @@ Users should be able to:
 
 ### Screenshot
 
-![Project Screenshot] (/assets/images/Screenshot Frontend Mentor Blog preview card.png)
+![Project Screenshot] (/assets/images/Blog-preview-card.png)
 
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://kinyua-leo.github.io/blog-preview-card/]
 
 ## My process
 
