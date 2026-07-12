@@ -6,14 +6,19 @@
     --color-blue: hsl(228, 45%, 44%);
 }
 
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+}
 
 body {
-    background-color: var(--color-yellow)
-    padding: 1.5rem;
+    background-color: var(--color-yellow);
+    padding: 5rem;
     font-size: 1rem;
     font-family: "Figtree", sans-serif;
 }
-    
+
 .attribution { 
     font-size: 0.6875rem; 
     text-align: center; 
@@ -27,8 +32,8 @@ body {
     width: min(25rem, 100%);
     margin: 0 auto;
     display: grid;
-    background-color: var(--color-yellow);
-    padding : 1.1rem;
+    background-color: var(--color-white);
+    padding : 1rem;
     border-radius: 1.2rem;
     box-shadow: 6px 6px 0px var(--color-gray-950);
     border: 1px solid var(--color-gray-950);
@@ -72,7 +77,7 @@ body {
     color:var(--color-gray-500);
 }
 
-.author-image{
+.author-avatar{
     width: 2.2rem;
     border-radius: 50%;
 }
