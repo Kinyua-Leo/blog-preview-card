@@ -27,7 +27,7 @@ body {
     width: min(25rem, 100%);
     margin: 0 auto;
     display: grid;
-    background-color: var(--color-white);
+    background-color: var(--color-yellow);
     padding : 1.1rem;
     border-radius: 1.2rem;
     box-shadow: 6px 6px 0px var(--color-gray-950);
