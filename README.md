@@ -34,7 +34,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [https://kinyua-leo.github.io/blog-preview-card/]
 - Live Site URL: [https://kinyua-leo.github.io/blog-preview-card/]
 
 ## My process
