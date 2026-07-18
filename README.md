@@ -34,7 +34,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://kinyua-leo.github.io/blog-preview-card/]
+- Solution URL: [https://www.frontendmentor.io/solutions/dev-tools-css-grid-flexbox-GZM8iEkcxR]
 - Live Site URL: [https://kinyua-leo.github.io/blog-preview-card/]
 
 ## My process
